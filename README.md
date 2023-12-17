@@ -1,8 +1,8 @@
 ## This is a Personal Portfolio website
-I am Rasel Mahmud. I developed this website using Laravel 8. 
-Frontend Technology: Html5, CSS3, jQuery, Javascript
-Backend Technology: PHP, Laravel8
-Database: MySQL
+I am Rasel Mahmud. I have developed this website using Laravel 8. <br>
+Frontend Technology: Html5, CSS3, jQuery, Javascript <br>
+Backend Technology: PHP, Laravel8 <br>
+Database: MySQL <br>
 
 ## About Laravel
 
